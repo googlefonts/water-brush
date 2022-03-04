@@ -1,6 +1,6 @@
-# Petemoss
+# Water Brush
 
-Petemoss is a semi-calligraphic brush script. It is inspired by the forms created using a Pentel™ color brush.
+It's cool and refreshing. Water Brush is a contemporary script style. The dry brush texture is indicative of a camel hair brush filled with color on a watercolor textured paper. The characters are loose and expressive— perfect for casual and sophisticated situations.
 
 ![Sample Image](documentation/image1.png)
 
