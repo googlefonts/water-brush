@@ -1,5 +1,5 @@
 {
-.appVersion = "1360";
+.appVersion = "1352";
 classes = (
 {
 code = "r.init racute.init rcaron.init rcommaaccent.init rdblgrave.init rinvertedbreve.init ";
@@ -170,11 +170,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1000;
+value = 1135;
 },
 {
 name = winDescent;
-value = 450;
+value = 475;
 },
 {
 name = strikeoutPosition;
@@ -99184,7 +99184,7 @@ trademark = 50;
 "@MMK_R_quotes" = -30;
 };
 "@MMK_L_eight" = {
-"@MMK_R_one " = -40;
+"@MMK_R_on" = 0;
 "@MMK_R_period" = -40;
 };
 "@MMK_L_f" = {
@@ -99250,7 +99250,7 @@ peso = 60;
 };
 "@MMK_L_one" = {
 "@MMK_R_hyphen" = -60;
-"@MMK_R_one " = -40;
+"@MMK_R_on" = 0;
 "@MMK_R_period" = -80;
 "@MMK_R_zero" = -40;
 peso = 50;
@@ -99307,7 +99307,7 @@ question = 30;
 "@MMK_R_eight" = -40;
 "@MMK_R_four" = -100;
 "@MMK_R_hyphen" = -50;
-"@MMK_R_one " = -40;
+"@MMK_R_on" = 0;
 "@MMK_R_period" = -70;
 "@MMK_R_quotestraight" = 30;
 "@MMK_R_seven" = 20;
@@ -99322,7 +99322,7 @@ slash = -50;
 sterling = -30;
 };
 "@MMK_L_six" = {
-"@MMK_R_one " = -40;
+"@MMK_R_on" = 0;
 "@MMK_R_period" = -50;
 "@MMK_R_seven" = -30;
 };
@@ -99338,7 +99338,7 @@ question = 120;
 trademark = 260;
 };
 "@MMK_L_three" = {
-"@MMK_R_one " = -30;
+"@MMK_R_on" = 0;
 "@MMK_R_period" = -50;
 "@MMK_R_quotes" = -70;
 "@MMK_R_seven" = -20;
@@ -99515,5 +99515,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
